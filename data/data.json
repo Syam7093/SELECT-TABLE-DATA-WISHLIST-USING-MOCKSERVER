@@ -1,0 +1,14 @@
+{
+    "users":[
+        { "name": "syam", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "ram", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "bheem", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "ramesh", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "suresh", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "somesh", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "praven", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "jam", "status": false, "gender": "male", "mobile": 9898989898 },
+        { "name": "balu", "status": true, "gender": "male", "mobile": 9898989898 },
+        { "name": "balu", "status": false, "gender": "male", "mobile": 9898989898 }
+    ]
+}
